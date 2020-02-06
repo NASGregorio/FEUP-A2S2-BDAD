@@ -1,0 +1,10 @@
+int1 - QUERY DOS UTILIZADORES QUE NAO UTILIZAM SERVICO HA x DIAS
+int2 - QUERY dos paises com datacenters a correr todas as versoes de NOME_BACKEND
+int3 - QUERY da cidade por pais com maior numero de servicos a correr
+int4 - QUERY do tempo medio que cada utilizador corre instancia virtual
+int5 - QUERY dos utilizadores com servico ativo no pais PAIS
+int6 - QUERY das apps a correr backend BACK entre versoes X.y  e W.z
+int7 - QUERY todos os utilizadores que fizeram mais de X transferencias num dado periodo de tempo
+int8 - QUERY PRECO MEDIA QUE CADA UTILIZADOR PARA POR ARMAZENAMENTO
+int9 - QUERY rede da qual maior numero de pessoas se inscrevem no servico
+int10 - QUERY dos utilizadores que ultrapassam limites do tarifario
